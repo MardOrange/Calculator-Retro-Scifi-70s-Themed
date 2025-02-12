@@ -1,8 +1,10 @@
 # Retro-Scifi-70s-Themed
-A Retro-Scifi-70s-Themed open source calculator project in python with different themes.
+A Retro-Scifi-70s-Themed open source calculator project ![Screenshot 2025-02-13 010604](https://github.com/user-attachments/assets/750ce990-dd21-4068-aa9b-9ba44c23edbc)
+in python with different themes.
 
 | Dark-themed                            |                            |
-| ----------------------------------- | ----------![Window](https://github.com/user-attachments/assets/010cb972-0bd1-4059-9ab9-19700bca993b)
+| ----------------------------------- | ----------![Window](https://g![Screenshot 2025-02-13 010604](https://github.com/user-attachments/assets/c0adfb67-0608-4edb-a2eb-efca06e46e15)
+ithub.com/user-attachments/assets/010cb972-0bd1-4059-9ab9-19700bca993b)
 ------------------------- |
 | ![PREVIEW_2](https://github.com/MardOrange/Retro-Scifi-70s-Themed/assets/144544417/64ea773d-075d-497e-bcc6-ced7105f5461) | ![PREVIEW_1](https://github.com/MardOrange/Retro-Scifi-70s-Themed/assets/144544417/d64224c3-ad0a-4bf0-bca2-040c57baf612) |
 
